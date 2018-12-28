@@ -1,0 +1,124 @@
+#container {
+    background: #fff;
+    width: auto;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+
+#nav {
+    margin: 0 0px;
+    padding: 20px 10px;
+    height: none;
+    background: none;
+    color: #ffffff;
+    background-color: #4c4c4c;
+    border-top: none;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: function_exists;
+    white-space: nowrap;
+}
+
+#nav li a.active, #nav li a:hover {
+    background-color: #000000;
+    color: #fff;
+}
+
+#nav li a {
+    display: inline-block;
+    width: auto;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 0 10px 0 32px;
+    margin-left: 10px;
+    color: #fff;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    background-position: 10px 50%;
+    background-repeat: no-repeat;
+}
+
+
+.blue.button, .blue.button:visited {
+    background-color: #734e97;
+}
+
+.blue.button, .blue.button {
+    background-color: #734e97;
+}
+
+.blue.button, .blue.button:hover {
+    background-color: #734e97;
+}
+
+.green.button, .green.button {
+    background-color: #43a886;
+}
+
+.button, .button:visited, .green.button, .green.button:visited {
+    background-color: #43a886;
+}
+
+.green.button, .green.button:hover {
+    background-color: #43a886;
+}
+
+.button {
+  /* background-color: #4CAF50; /* Green */ */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#nav li a.active, #nav li a:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+
+#nav li a.active, #nav li a {
+    background-color: #4c4c4c;
+    color: #fff;
+    padding-left: 45px;
+    padding-top: 4px;
+}
+
+a, .link {
+    color: #734e97;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1px;
+}
+
+#footer p {
+    margin: 15px 0 0 0;
+}
+
+.buttons {
+  /* background-color: #4CAF50; /* Green */ */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding-left: 500px;
+}
+
+h1 {
+    color: #734d96;
+    font-weight: normal;
+    font-size: 28px;
+    text-align: center;
+}
